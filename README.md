@@ -5,7 +5,6 @@
 
 ## 项目结构
 ```
--|data
 -README.MD
 -query_summary.ipynb
 ```
